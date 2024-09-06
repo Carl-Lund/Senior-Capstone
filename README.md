@@ -7,3 +7,5 @@
 3. Run the command **node app.js** to get the server up and running.
 4. Access the frontend SwiftUI code in xcode.
 5. Run the program and information should be presented from the database.
+
+<a href="https://youtu.be/zQOdjgi4CRw">Short Demo Video</a>
